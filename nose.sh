@@ -1,5 +1,6 @@
 #/bin/bash
 
+# este comentario lo pongo para ver como aparece en git
 # voy a probar tener aca distintas cosas que se me ocurren para automatizar cosas
 # como podria ser limpieza de logs
 
